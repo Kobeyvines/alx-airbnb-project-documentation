@@ -57,8 +57,3 @@ _As an admin, I want to manage user accounts so that I can suspend or delete pro
 _As an admin, I want to review properties and guest reviews so that I can ensure compliance with platform rules._
 
 ---
-
-## ✅ Notes
-
-- These user stories represent **system-level goals** from each user's perspective.
-- They can be expanded into **tasks**, **acceptance criteria**, or **test cases** as development progresses.
